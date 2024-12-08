@@ -1,0 +1,7 @@
+codingassignment\model\FilterCriteria.class
+codingassignment\querybuilder\SQLQueryBuilder.class
+codingassignment\querybuilder\MongoQueryBuilder.class
+codingassignment\service\QueryService.class
+codingassignment\config\DatabaseConfig.class
+Application.class
+ApplicationMain.class
